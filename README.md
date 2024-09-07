@@ -52,6 +52,6 @@ The models were:
 
   The best model was the Random Forest Regressor with a Mean Absolute Error of 0,13 and a Residual Standard Error of 0,199. Given that the range of the target value is between 1 and 5, these errors indicate that the model performs really well.
 
-  ![Example Image](Results.png)
+  ![Example Image](images/Results.png)
 
 
