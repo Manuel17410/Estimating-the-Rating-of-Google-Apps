@@ -1,4 +1,4 @@
-# Customer-Segmentation: Analyzing Behavior of Credit Card Users for Targeted Marketing
+# Estimating the rating of Google Apps
 
 - **Objective**: Develop a machine learning model to predict user ratings of Google Play apps based on various app features.
 
