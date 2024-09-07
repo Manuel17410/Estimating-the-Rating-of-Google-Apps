@@ -27,7 +27,7 @@ The process was not really straight forward since the data was quite messy. I ma
 - Column "Installs" was converted to numeric, and the plus signs were eliminated
 - The Column "Size" had values in different k and M, so it was necessary to make them comparable. Moreover, it was converted to float.
 - Outliers were eliminated
-- Columns "App", "Current Ver", "Android Ver" and "Last Updated" were dropped, since they do not add any value to the analysis
+- Columns "App", "Current Ver", "Android Ver" and "Last Updated" were dropped, since they do not add any value to the analysis.
 
 ## EDA
 
