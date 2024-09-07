@@ -33,4 +33,25 @@ The process was not really straight forward since the data was quite messy. I ma
 
 Many different graphs were made to understand the dataset better. Below some of them. 
 
+![Example Image](images/DistributionofRatings.png)
+![Example Image](images/AverageRatingByApp.png)
+
+## Model Building
+
+In order to conduct the models, it was necessary to convert the categorical variables to dummies. Furthermore the data was scaled, and since these models are supervised, later divided into test and train sets, with a test size of 25%. 
+
+4 diferent models were conducted and evaluated using metrics such as Mean Absolute Error, Residual Error, Percentage Error and R2.
+The models were:
+
+- Linear Regression
+- Decission Tree Regressor
+- Random Forest Regressor
+- Support Vector Machine
+
+  ## Model Performance
+
+  The best model was the Random Forest Regressor with a Mean Absolute Error of 0,13 and a Residual Standard Error of 0,199. Given that the range of the target value is between 1 and 5, these errors indicate that the model performs really well.
+
+  ![Example Image](Results.png)
+
 
